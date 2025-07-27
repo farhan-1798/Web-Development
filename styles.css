@@ -1,0 +1,20 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: #333;
+}
+figure{
+    align-items:baseline
+    border: whitesmoke;
+    padding: 5px;
+    margin: '2px';
+    background-color:#f0f0f0;
+}
+
+figcaption{
+    align-items: baseline;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    text-align:left;
+    color: #333;
+}
